@@ -1,10 +1,10 @@
 {
-  "name": "ht-page-view-element",
+  "name": "@01ht/ht-page-view-element",
   "version": "1.0.0",
   "main": "ht-page-view-element.js",
-  "repository": "https://github.com/maksimyurkov/ht-page-view-element",
-  "author": "maksimyurkov <yurkov.maksim.sergeevich@gmail.com>",
-  "license": "MIT",
+  "repository": "01ht/ht-page-view-element",
+  "author": "01ht Ltd",
+  "license": "UNLICENSED",
   "dependencies": {
     "@polymer/lit-element": "^0.5.1"
   }
